@@ -1,0 +1,37 @@
+.navbar{
+	color: fff;
+	font-style: normal;
+	text-align: center;
+	background-color:black;
+}
+.navbar li{
+	margin-top: 10px;
+	display: inline;
+}
+.portfolio, .about, .header {
+	min-height: 600px;
+}
+
+.jumbotron img{	
+	border-radius: 50%;
+	border: 3px #8c9c9c solid;
+	height: 100px;
+}
+
+hr{
+	border: 5px black solid;
+	width: 600px;
+}
+.portfolio img{
+	width: 100px;
+}
+
+.footer{
+	height: 100px;
+	background-color: #333;
+	margin-bottom: bottom;
+}
+
+.footer p {
+	color: #fff;
+}
